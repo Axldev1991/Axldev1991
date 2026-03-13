@@ -23,11 +23,16 @@ Un gusto saludarte. Soy un desarrollador creativo con más de 5 años de trayect
 
 ---
 
-#### 🌟 Trayectoria y Proyectos Destacados
+#### 🌟 Trayectoria y Educación
 
-*   **+30 Proyectos Corporativos:** Mirgor, Zeigen, UCASAL, entre otros.
-*   **+100 WordPress Kits desarrollados:** Optimizados para performance y conversión.
-*   **Formación Académica:** Tecnicatura Universitaria en Programación (UTN FRA).
+*   **Experiencia Destacada:**
+    *   **Web Developer & Project Leader** en Sagha Design y Dharma Evolution.
+    *   **Web Developer** en Rubicon Tech.
+    *   Especialista en arquitecturas WordPress y soluciones custom con Next.js.
+*   **Formación Académica:**
+    *   🎓 **Tecnicatura Universitaria en Programación** (UTN FRA) - *En curso (2024)*.
+    *   ⚙️ **Ingeniería Mecánica** (UTN) - *Formación técnica y lógica (2009-2013)*.
+    *   🔧 **Técnico Electromecánico** (EEST Nº5 JFK) - *Título secundario técnico*.
 
 ---
 
